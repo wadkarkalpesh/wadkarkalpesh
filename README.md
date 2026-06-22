@@ -38,9 +38,6 @@ Java
 Python · Java · SQL · FastAPI · Pandas · Flutter · Oracle APEX
 
 📫 Connect
-. LinkedIn: https://www.linkedin.com/in/wadkardeepakvishwas15108993094/
-. Email: wadkardeepak56@gmail.com
 
-
-LinkedIn: add your link here
-Email: add your email here
+LinkedIn: https://www.linkedin.com/in/wadkardeepakvishwas15108993094/
+Email: wadkardeepak56@gmail.com

@@ -1,4 +1,4 @@
-Hi, I'm Deepak (Kalpesh Wadkar) 👋
+Hi, I'm Deepak Wadkar 👋
 
 Pre-final year engineering student building toward an AI/ML Engineering
 internship. I focus on projects that go beyond tutorials — real data
